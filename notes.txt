@@ -1,5 +1,3 @@
-
-
 Josh’s next steps:
 - Initial PCA
 - Do the cointegration analysis
@@ -13,11 +11,12 @@ Tyler’s next steps:
 - Study exploratory analysis notebooks
 - Finish chapter 2 in Hands-On ML
 - Reach out to Jan
+- Take a look at Cloud9
 
 General next steps:
-- Create a small subset to work with locally can be helpful initially.
+- (Optional) Create a small subset of data to work with locally
 - Find out where Zillow (and Trulia) gets its data per parameter
-- Find a UID
+- Find a UID; parcelID may be specific only to Zillow
 
 
 Potential new metrics:
@@ -36,3 +35,5 @@ Admin thoughts:
 - External data sources may be useful for cross-validation but rules don’t allow them in phase 2 so may be wasteful to use them for prediction in phase 1. I.e. strong results from cross-validating w/ current sales data should lead to higher ranking in the private leaderboard.
 - The Kaggle CTO indicated teams who try a variety of approaches more commonly win, as opposed to drilling deeply into one approach
 - Consider writing/sharing a kernel if we come up w/ something insightful
+
+ 
