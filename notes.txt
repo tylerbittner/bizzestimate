@@ -1,0 +1,38 @@
+
+
+Josh’s next steps:
+- Initial PCA
+- Do the cointegration analysis
+- Create Kaggle team - Bizzestimate! 
+- AWS access
+- Send Tyler book PDFs
+- Contact Matt from 3DData
+
+Tyler’s next steps:
+- Create some basic plumbing code
+- Study exploratory analysis notebooks
+- Finish chapter 2 in Hands-On ML
+- Reach out to Jan
+
+General next steps:
+- Create a small subset to work with locally can be helpful initially.
+- Find out where Zillow (and Trulia) gets its data per parameter
+- Find a UID
+
+
+Potential new metrics:
+- you would think that the main factor in Zillow's model is the value of neighboring homes with known value (e.g. following a recent sale.)
+- boosting the importance of lot area and square footage in locations that have very homogeneous Zillow value estimates
+- Market trends based on time series
+- [External] More current market trends
+- Q: Can deeper insight into evaluation metric be mined?
+
+
+Admin thoughts:
+- Suggest doing a work/play session together (remotely) each week
+- At a minimum let’s walk each other thru the work we’ve done separately to learn
+- Teams are capped at three… so let’s find a great third member :)
+- Share code via GitHub and/or Kaggle Kernel until we get to a competitive point
+- External data sources may be useful for cross-validation but rules don’t allow them in phase 2 so may be wasteful to use them for prediction in phase 1. I.e. strong results from cross-validating w/ current sales data should lead to higher ranking in the private leaderboard.
+- The Kaggle CTO indicated teams who try a variety of approaches more commonly win, as opposed to drilling deeply into one approach
+- Consider writing/sharing a kernel if we come up w/ something insightful
